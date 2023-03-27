@@ -1,0 +1,23 @@
+{
+  "name": "w9d1-asteroids",
+  "version": "1.0.0",
+  "description": "Asteroids game recreation",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AErdenberger/W9D1-Asteroids.git"
+  },
+  "keywords": [],
+  "author": "Alex Erdenberger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AErdenberger/W9D1-Asteroids/issues"
+  },
+  "homepage": "https://github.com/AErdenberger/W9D1-Asteroids#readme",
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
